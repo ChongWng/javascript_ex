@@ -43,6 +43,7 @@ html, body {
   width: 600px;
   display: inline-block;
   vertical-align: top;
+  margin-bottom: 2px;
 }
 
 .simple-form {

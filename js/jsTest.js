@@ -1,5 +1,5 @@
 /* 
-  index.js
+  jsTest.js
 */
 
 "use strict";
